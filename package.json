@@ -20,9 +20,6 @@
     "cpcmds": "cmake-js configure --CDvenmic_addon=ON --CDCMAKE_EXPORT_COMPILE_COMMANDS=ON",
     "install": "pkg-prebuilds-verify ./lib/options.js || cmake-js compile --CDvenmic_addon=ON"
   },
-  "os": [
-    "linux"
-  ],
   "binary": {
     "napi_versions": [
       7

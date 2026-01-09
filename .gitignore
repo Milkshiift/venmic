@@ -1,6 +1,6 @@
 node_modules
-prebuilds
 build
 
 .vscode
 .cache
+.idea
